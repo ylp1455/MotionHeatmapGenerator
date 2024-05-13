@@ -1,4 +1,4 @@
-# MotionHeatmapGenerator# MotionHeatmapGenerator
+# MotionHeatmapGenerator
 
 ![63e3bba673776bd9e9955af0_Using Heat Maps to Analyze Traffic Flow (2)](https://github.com/ylp1455/MotionHeatmapGenerator/assets/115799462/c517a69b-93fa-410d-b2c3-03205d720fea)
 
