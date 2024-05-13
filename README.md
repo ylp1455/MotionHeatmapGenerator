@@ -1,6 +1,7 @@
 # MotionHeatmapGenerator# MotionHeatmapGenerator
 
-![Motion Heatmap Example](https://example.com/path/to/your/image1.png)
+![63e3bba673776bd9e9955af0_Using Heat Maps to Analyze Traffic Flow (2)](https://github.com/ylp1455/MotionHeatmapGenerator/assets/115799462/c517a69b-93fa-410d-b2c3-03205d720fea)
+
 
 A Python package for generating motion heatmaps from video sequences. This package allows you to analyze areas of motion within a sequence of images by highlighting these areas in a heatmap.
 
@@ -15,7 +16,8 @@ A Python package for generating motion heatmaps from video sequences. This packa
 To install `MotionHeatmapGenerator`, you can use pip:
 # MotionHeatmapGenerator# MotionHeatmapGenerator
 
-![Motion Heatmap Example](https://example.com/path/to/your/image1.png)
+![hqdefault](https://github.com/ylp1455/MotionHeatmapGenerator/assets/115799462/417c8a9c-0a27-4e82-b44a-6cf34980f99a)
+
 
 A Python package for generating motion heatmaps from video sequences. This package allows you to analyze areas of motion within a sequence of images by highlighting these areas in a heatmap.
 
