@@ -5,4 +5,7 @@ This package provides a class for generating motion heatmaps from a sequence of 
 highlighting areas of motion within the images by analyzing changes in pixel intensities.
 """
 
-from.motion_heatmap_generator import MotionHeatmapGenerator
+from .motion_heatmap_generator import MotionHeatmapGenerator
+
+__version__ = "0.1.0"
+__all__ = ["MotionHeatmapGenerator"]

@@ -1,0 +1,10 @@
+# MotionHeatmapGenerator Requirements
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.0.0
+numpy>=1.19.0
+scipy>=1.5.0
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
